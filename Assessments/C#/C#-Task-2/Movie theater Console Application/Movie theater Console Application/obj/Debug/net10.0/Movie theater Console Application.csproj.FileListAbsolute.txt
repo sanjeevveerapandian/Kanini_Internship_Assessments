@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\bin\Debug\net10.0\Movie theater Console Application.exe
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\bin\Debug\net10.0\Movie theater Console Application.deps.json
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\bin\Debug\net10.0\Movie theater Console Application.runtimeconfig.json
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\bin\Debug\net10.0\Movie theater Console Application.dll
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\bin\Debug\net10.0\Movie theater Console Application.pdb
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.dll
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\refint\Movie theater Console Application.dll
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.pdb
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\Movie theater Console Application.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Movie theater Console Application\Movie theater Console Application\obj\Debug\net10.0\ref\Movie theater Console Application.dll
